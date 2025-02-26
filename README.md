@@ -30,6 +30,18 @@ A simple full-stack Todo List application built with **React, Node.js, Express, 
    ```sh
    git clone https://github.com/yourusername/todo-app.git
    cd todo-app
+2. ## Setup Backend
+
+   ```sh
+      cd backend
+      npm install
+      npm run dev
+3. ## Setup frontend
+
+   ```sh
+      cd todo-app
+      npm install
+      npm start
 
 ## API Routes
 
